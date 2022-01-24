@@ -1,0 +1,14 @@
+.main {
+    margin: 100px;
+}
+
+button {
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+@media print {
+    #printPageButton {
+      display: none;
+    }
+  }
